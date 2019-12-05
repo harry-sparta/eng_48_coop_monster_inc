@@ -4,8 +4,8 @@
 ## Specification (doing)
 **As a user I should be able to create a monster from Monster()**
 - Behaviors of monster (methods)
-    - A monster should be able to sleep --> respond back with something including 'ZZZZZ'
-    - A monster should be able to eat --> respond back with something including 'NOM!! NOM!!'
+    - A monster should be able to sleep --> respond back with something including 'zzzz'
+    - A monster should be able to eat --> respond back with something including 'nom nom'
     - A monster should be able to scare_attack --> should return something including 'RAAAH!!'
     - A monster should be able to have a skill added to his/her list of skills
 - Looks of a monster (attributes)
