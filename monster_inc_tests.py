@@ -24,3 +24,4 @@ print(' Results: ', monster_1.sleep() == 'zzzz', '      Output: ', monster_1.sle
 # T3. Test if monster can scare_attack
 print(' \nT3. Test if monster can scare attack')
 print(' Test results: ', monster_1.scare_attack() == 'RAAAHHH', '       Output: ', monster_1.scare_attack())
+

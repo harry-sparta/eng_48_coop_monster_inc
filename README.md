@@ -1,5 +1,5 @@
 # Monster Inc Project
-*commit: (4)*
+*commit: (6)*
 
 ## Specification (doing)
 **As a user I should be able to create a monster from Monster()**
