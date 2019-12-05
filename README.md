@@ -1,7 +1,7 @@
 # Monster Inc Project
-*commit: (6)*
+*commit: (7)*
 
-## Specification (doing)
+## 0 Specification
 **As a user I should be able to create a monster from Monster()**
 - Behaviors of monster (methods)
     - A monster should be able to sleep --> respond back with something including 'zzzz'
@@ -12,13 +12,17 @@
     - Should have a name that is a string
     - Should have a list of skills
 
-## Separation of concerns (doing)
-**Separating classes, testing and run into separate files. Run via importing.**
-- monster_parent_class file
-- tests file
-- run file
-    
-## To do list (backlog)
-- Apply separation of concerns
-- Uploaded to GitHub
-- Meets the definitions of DONE
+## 1 How to run file:
+- Run monster_inc_run.py
+- Enter monster name
+- Enter monster skills and separate each skill with a comma (,)
+
+## 2 Test file
+- Run monster_inc_test.py
+- Tests pre-set attributes and behaviors for Monster()
+
+## 3 Class code file
+- monster_inc_class.py
+- class definitions and specification implemented here
+
+
