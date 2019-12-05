@@ -1,5 +1,5 @@
 # Monster Inc Project
-*commit: (3)*
+*commit: (4)*
 
 ## Specification (doing)
 **As a user I should be able to create a monster from Monster()**
@@ -15,7 +15,6 @@
 ## Separation of concerns (doing)
 **Separating classes, testing and run into separate files. Run via importing.**
 - monster_parent_class file
-- monster_inheritance_class file
 - tests file
 - run file
     
