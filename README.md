@@ -1,5 +1,5 @@
 # Monster Inc Project
-*commit: initial (1)*
+*commit: (3)*
 
 ## Specification (doing)
 **As a user I should be able to create a monster from Monster()**
@@ -11,7 +11,13 @@
 - Looks of a monster (attributes)
     - Should have a name that is a string
     - Should have a list of skills
-    
+
+## Separation of concerns (doing)
+**Separating classes, testing and run into separate files. Run via importing.**
+- monster_parent_class file
+- monster_inheritance_class file
+- tests file
+- run file
     
 ## To do list (backlog)
 - Apply separation of concerns
